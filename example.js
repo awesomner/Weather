@@ -1,5 +1,5 @@
 //  var names = ['Tomas', 'Lukas', 'Miso'];
-// //
+
 // // names.forEach(function(name) {
 // //   console.log('forEach', name);
 // // });
